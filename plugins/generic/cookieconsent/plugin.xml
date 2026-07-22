@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <name>cookieconsent</name>
+  <display_name>Banner de cookies</display_name>
+  <description>Plugin que muestra un aviso de aceptación de cookies usando cookieconsent (vía CDN). Permite configurar el texto y la URL de la política desde la administración.</description>
+  <version>1.0.0</version>
+  <min_ojs_version>3.1.0.0</min_ojs_version>
+  <author>Desarrollado</author>
+  <license>MIT</license>
+</plugin>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+  <message key="plugins.generic.cookieconsent.displayName">Banner de cookies</message>
+  <message key="plugins.generic.cookieconsent.description">Muestra un aviso de aceptación de cookies y enlace a la política de cookies.</message>
+  <message key="plugins.generic.cookieconsent.settings">Ajustes</message>
+  <message key="plugins.generic.cookieconsent.settingsSaved">Ajustes guardados correctamente.</message>
+</locale>
